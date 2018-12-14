@@ -1,2 +1,6 @@
-# npm-cache-clean
-NPM - Cache clean
+npm-cache-clean
+# NPM - Cache clean
+
+```code
+npm cache clean
+```
